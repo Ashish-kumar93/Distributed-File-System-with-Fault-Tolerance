@@ -1,0 +1,5 @@
+2025-12-10 20:14:16,117 - Master - INFO - Loaded metadata: 0 files.
+2025-12-10 20:14:16,119 - Master - INFO - Master listening on 5000
+2025-12-10 20:14:32,282 - Master - INFO - File 1-073d4720-32ec-4746-830c-b1ba80b018ab (1).pdf uploaded successfully.
+2025-12-10 20:14:41,879 - Master - INFO - Received delete request for 1-073d4720-32ec-4746-830c-b1ba80b018ab (1).pdf
+2025-12-10 20:14:41,882 - Master - INFO - File 1-073d4720-32ec-4746-830c-b1ba80b018ab (1).pdf deleted.

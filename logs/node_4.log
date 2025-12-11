@@ -1,0 +1,31 @@
+2025-12-10 20:08:11,594 - Node-5496 - INFO - Node node_4 initialized. Storage: dfs_storage\node_node_4
+2025-12-10 20:08:11,596 - Node-5496 - INFO - Node node_4 listening on port 6004
+2025-12-10 20:08:45,683 - Node-5496 - WARNING - Node node_4 could not connect to Master at localhost:5000
+2025-12-10 20:08:49,720 - Node-5496 - WARNING - Node node_4 could not connect to Master at localhost:5000
+2025-12-10 20:08:53,778 - Node-5496 - WARNING - Node node_4 could not connect to Master at localhost:5000
+2025-12-10 20:08:57,818 - Node-5496 - WARNING - Node node_4 could not connect to Master at localhost:5000
+2025-12-10 20:09:01,852 - Node-5496 - WARNING - Node node_4 could not connect to Master at localhost:5000
+2025-12-10 20:09:05,906 - Node-5496 - WARNING - Node node_4 could not connect to Master at localhost:5000
+2025-12-10 20:09:09,957 - Node-5496 - WARNING - Node node_4 could not connect to Master at localhost:5000
+2025-12-10 20:09:13,992 - Node-5496 - WARNING - Node node_4 could not connect to Master at localhost:5000
+2025-12-10 20:09:18,040 - Node-5496 - WARNING - Node node_4 could not connect to Master at localhost:5000
+2025-12-10 20:09:22,088 - Node-5496 - WARNING - Node node_4 could not connect to Master at localhost:5000
+2025-12-10 20:09:26,130 - Node-5496 - WARNING - Node node_4 could not connect to Master at localhost:5000
+2025-12-10 20:09:30,381 - Node-5496 - WARNING - Node node_4 could not connect to Master at localhost:5000
+2025-12-10 20:09:34,442 - Node-5496 - WARNING - Node node_4 could not connect to Master at localhost:5000
+2025-12-10 20:09:38,495 - Node-5496 - WARNING - Node node_4 could not connect to Master at localhost:5000
+2025-12-10 20:09:42,552 - Node-5496 - WARNING - Node node_4 could not connect to Master at localhost:5000
+2025-12-10 20:09:46,599 - Node-5496 - WARNING - Node node_4 could not connect to Master at localhost:5000
+2025-12-10 20:09:50,636 - Node-5496 - WARNING - Node node_4 could not connect to Master at localhost:5000
+2025-12-10 20:09:54,667 - Node-5496 - WARNING - Node node_4 could not connect to Master at localhost:5000
+2025-12-10 20:09:58,699 - Node-5496 - WARNING - Node node_4 could not connect to Master at localhost:5000
+2025-12-10 20:10:02,727 - Node-5496 - WARNING - Node node_4 could not connect to Master at localhost:5000
+2025-12-10 20:10:06,782 - Node-5496 - WARNING - Node node_4 could not connect to Master at localhost:5000
+2025-12-10 20:10:10,836 - Node-5496 - WARNING - Node node_4 could not connect to Master at localhost:5000
+2025-12-10 20:10:14,880 - Node-5496 - WARNING - Node node_4 could not connect to Master at localhost:5000
+2025-12-10 20:10:18,934 - Node-5496 - WARNING - Node node_4 could not connect to Master at localhost:5000
+2025-12-10 20:10:22,979 - Node-5496 - WARNING - Node node_4 could not connect to Master at localhost:5000
+2025-12-10 20:10:27,027 - Node-5496 - WARNING - Node node_4 could not connect to Master at localhost:5000
+2025-12-10 20:10:31,080 - Node-5496 - WARNING - Node node_4 could not connect to Master at localhost:5000
+2025-12-10 20:10:35,118 - Node-5496 - WARNING - Node node_4 could not connect to Master at localhost:5000
+2025-12-10 20:10:39,150 - Node-5496 - WARNING - Node node_4 could not connect to Master at localhost:5000

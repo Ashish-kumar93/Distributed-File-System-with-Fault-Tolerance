@@ -1,0 +1,4 @@
+2025-12-10 20:14:17,229 - Node-2872 - INFO - Node node_3 initialized. Storage: dfs_storage\node_node_3
+2025-12-10 20:14:17,230 - Node-2872 - INFO - Node node_3 listening on port 6003
+2025-12-10 20:14:32,275 - Node-2872 - INFO - Stored chunk 1-073d4720-32ec-4746-830c-b1ba80b018ab (1).pdf_chunk_0_63dd9ba7, size 120858, checksum 7d972856...
+2025-12-10 20:14:41,892 - Node-2872 - INFO - Deleted chunk 1-073d4720-32ec-4746-830c-b1ba80b018ab (1).pdf_chunk_0_63dd9ba7
