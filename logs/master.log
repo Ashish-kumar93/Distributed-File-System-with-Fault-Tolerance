@@ -1,5 +1,10 @@
-2025-12-10 20:14:16,117 - Master - INFO - Loaded metadata: 0 files.
-2025-12-10 20:14:16,119 - Master - INFO - Master listening on 5000
-2025-12-10 20:14:32,282 - Master - INFO - File 1-073d4720-32ec-4746-830c-b1ba80b018ab (1).pdf uploaded successfully.
-2025-12-10 20:14:41,879 - Master - INFO - Received delete request for 1-073d4720-32ec-4746-830c-b1ba80b018ab (1).pdf
-2025-12-10 20:14:41,882 - Master - INFO - File 1-073d4720-32ec-4746-830c-b1ba80b018ab (1).pdf deleted.
+2025-12-10 20:29:56,153 - Master - INFO - Master listening on 5000
+2025-12-10 20:30:06,043 - Master - INFO - File 1-073d4720-32ec-4746-830c-b1ba80b018ab (1).pdf uploaded successfully.
+2025-12-10 20:30:13,185 - Master - INFO - File 12406759 CDP CIRTIFICATE.pdf uploaded successfully.
+2025-12-10 20:30:20,026 - Master - INFO - File AMAN DWIVEDI CDP.pdf uploaded successfully.
+2025-12-10 20:30:32,587 - Master - INFO - Received delete request for AMAN DWIVEDI CDP.pdf
+2025-12-10 20:30:32,589 - Master - INFO - File AMAN DWIVEDI CDP.pdf deleted.
+2025-12-10 20:30:36,330 - Master - INFO - Received delete request for 12406759 CDP CIRTIFICATE.pdf
+2025-12-10 20:30:36,332 - Master - INFO - File 12406759 CDP CIRTIFICATE.pdf deleted.
+2025-12-10 20:30:40,951 - Master - INFO - Received delete request for 1-073d4720-32ec-4746-830c-b1ba80b018ab (1).pdf
+2025-12-10 20:30:40,953 - Master - INFO - File 1-073d4720-32ec-4746-830c-b1ba80b018ab (1).pdf deleted.

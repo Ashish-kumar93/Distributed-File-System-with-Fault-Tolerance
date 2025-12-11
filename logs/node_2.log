@@ -1,2 +1,4 @@
-2025-12-10 20:14:17,206 - Node-19452 - INFO - Node node_2 initialized. Storage: dfs_storage\node_node_2
-2025-12-10 20:14:17,207 - Node-19452 - INFO - Node node_2 listening on port 6002
+2025-12-10 20:29:57,248 - Master - INFO - Node node_2 initialized. Storage: dfs_storage\node_node_2
+2025-12-10 20:29:57,250 - Master - INFO - Node node_2 listening on port 6002
+2025-12-10 20:30:06,034 - Master - INFO - Stored chunk 1-073d4720-32ec-4746-830c-b1ba80b018ab (1).pdf_chunk_0_58c4dc1f, size 120858, checksum 7d972856...
+2025-12-10 20:30:40,956 - Master - INFO - Deleted chunk 1-073d4720-32ec-4746-830c-b1ba80b018ab (1).pdf_chunk_0_58c4dc1f
