@@ -1,2 +1,3 @@
 # Distributed-File-System-with-Fault-Tolerance
 This project is a Distributed File System (DFS) built using Python, designed to store and access files across multiple networked storage nodes with high reliability. The system splits files into chunks, distributes them across nodes, and ensures that data remains accessible even if one or more nodes fail.
+The architecture includes a Master Node, multiple Storage Nodes, and a Client Interface. Fault-tolerance is achieved through chunk replication, heartbeat signals, failure detection, and automatic recovery. The system provides essential operations such as upload, download, replication, and health monitoring.
